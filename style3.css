@@ -1,4 +1,3 @@
-/* Reset and Base Styles */
 * {
   margin: 0;
   padding: 0;
@@ -166,9 +165,7 @@ body {
 .sidbar-menu #part2 {
   width: 100%;
   height: 646px;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: space-between; */
+  
 }
 .sidebar-menu #part1 .side-logo img {
   height: 34px;
